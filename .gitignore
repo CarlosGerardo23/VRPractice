@@ -72,6 +72,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 [Aa]ssets/Art
 [Aa]ssets/Plugins
+[Aa]ssets/OutOfCirculation
+[Aa]ssets/OutOfCirculation.meta
 [Aa]ssets/Art.meta
 [Aa]ssets/Plugins.meta
 
